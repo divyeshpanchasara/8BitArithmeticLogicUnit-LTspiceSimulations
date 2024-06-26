@@ -1,0 +1,22 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\pdivy\Desktop\MajorProject\eightbitalumajorproject\test\Draft4.asc
+Start Time: Thu Jun 13 20:50:20 2024
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Warning: toxe, toxp and dtox all given and toxe != toxp + dtox; dtox ignored.
+.step v1=0
+.step v1=0.1
+.step v1=0.2
+.step v1=0.3
+.step v1=0.4
+.step v1=0.5
+.step v1=0.6
+.step v1=0.7
+.step v1=0.8
+.step v1=0.9
+.step v1=1
+Total elapsed time: 1.008 seconds.
+
